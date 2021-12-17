@@ -37,7 +37,7 @@
   "tooltip.pipez.filter.inverted": "Инвертированный",
   "tooltip.pipez.filter_destination_tool": "Нажмите по блоку, чтобы задать его дистанцию",
   "tooltip.pipez.filter_destination_tool.destination": "Дистанция: X=%s, Y=%s, Z=%s, %s",
-  "tooltip.pipez.filter.destination.description": "Use the filter destination tool to set a destination",
+  "tooltip.pipez.filter.destination.description": "Используйте fИнструмент для назначения фильтра, чтобы задать дистанцию",
   "tooltip.pipez.filter.destination.click_to_remove": "Нажмите для удалиения",
   "tooltip.pipez.filter.unknown_block": "НЕИЗВЕСТНЫЙ БЛОК",
   "tooltip.pipez.filter.destination_location": "At X=%s, Y=%s, Z=%s",
@@ -80,6 +80,6 @@
   "message.pipez.filter.nbt_string": "Данные NBT",
   "message.pipez.filter.destination": "Дистанция",
   "message.pipez.filter_destination_tool.destination": "Дистанция: %s, %s, %s, %s",
-  "message.pipez.filter_destination_tool.destination.any": "Дистанция: Any",
-  "message.pipez.filter_destination_tool.destination.set": "Дистанция set"
+  "message.pipez.filter_destination_tool.destination.any": "Дистанция: Любая",
+  "message.pipez.filter_destination_tool.destination.set": "Дистанция задана"
 }
